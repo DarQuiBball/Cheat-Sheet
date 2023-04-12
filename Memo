@@ -1,8 +1,7 @@
-# Reverse shell !
+Reverse shell 
 
 Git PHP Reverse Shell : https://github.com/pentestmonkey/php-reverse-shell
-
-git clone ...
-modifier le fichier php-reverse-shell.php 
+Generator : https://www.revshells.com/
 
 
+https://gtfobins.github.io/#
