@@ -1,1 +1,1 @@
-Liste de technologies, tools, script, sites utilent pour la résolution de CTFs
+Liste de technologies, tools, scripts, sites utilent pour la résolution de CTFs
